@@ -55,7 +55,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/silliness"
         android:id="@+id/sillyButton"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
@@ -64,7 +64,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="A Ligh Switch"
+        android:text="@string/silliness"
         android:id="@+id/sillyWords"
         android:layout_below="@+id/editText2"
         android:layout_centerHorizontal="true" />
